@@ -1,0 +1,3 @@
+INSERT INTO ut_live_application.languages (name, slug, created_at, updated_at) VALUES ('English', 'en', '2017-03-25 08:16:37', '2017-03-25 08:16:37');
+INSERT INTO ut_live_application.languages (name, slug, created_at, updated_at) VALUES ('Francais', 'fr', '2017-03-25 08:16:55', '2017-03-25 08:16:55');
+INSERT INTO ut_live_application.languages (name, slug, created_at, updated_at) VALUES ('Español', 'es', '2017-07-04 20:06:44', '2017-07-04 20:06:44');
